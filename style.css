@@ -1,0 +1,61 @@
+button{
+    background-color: rgb(139,126,240);
+    border-radius: 5px;
+    margin: 1rem;
+    padding:1rem;
+    text-align: center;
+
+    
+
+}
+.two{
+    background-color: rgb(139,126,240);
+    color:white;
+    padding:1rem;
+}
+div{
+    border-radius: 5px;
+    padding:3rem;
+}
+.btn-group{
+    margin:2px;
+    border-radius: 5px;
+    border-color: 3,236,251;
+}
+.fifty-three{
+    background-color: rgb(30,77,243);
+}
+label{
+    background-color: rgb(0,181,228);
+    width:20rem;
+    padding:2rem;
+    text-align: center;
+    margin-left: 2rem;
+    height:5rem;
+    margin-top: 2rem;
+    padding-top: 2rem;
+    border-radius: 5px;
+}
+p{background-color: rgb(0,181,228);
+width:20rem;
+padding:2rem;
+text-align: center;
+margin-left: 2rem;
+height:5rem;
+margin-top: 2rem;
+padding-top: 2rem;
+border-radius: 5px;}
+h2{
+    background-color: rgb(3,236,251);
+    text-align: center;
+}
+body{
+    padding: 5 rem;
+    margin:5rem;
+}
+h1{
+    text-align: center;
+    background-color: rgb(30,77,243);
+    color:white;
+    border-radius: 5px;
+}
